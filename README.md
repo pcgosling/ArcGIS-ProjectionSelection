@@ -15,6 +15,13 @@ Install/            : The Python project used for the implementation of the
                       AddIn. The specific python script to be used as the root
                       module is specified in config.xml.
 
+ProjectionSelectionToolbox/
+                    : An ArcGIS Python Toolbox version of certain functions from
+                      into the AddIn, enabling user to carry out projection selection,
+                      distortion assessment, geographic centre determination, and
+                      fibonacci lattice generation outside the full AddIn toolbar
+                      functionality.
+
 config.xml          : The AddIn configuration file
 
 LICENSE.txt         : Full text of the Apache License, Version 2.0
