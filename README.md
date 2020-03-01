@@ -22,7 +22,7 @@ ProjectionSelectionToolbox/
                       fibonacci lattice generation outside the full AddIn toolbar
                       functionality.
 
-AutomatedProjectionSelection.esriaddin:
+AutomatedProjectionSelection.esriaddin
                     : Run this file to install the AddIn toolbar to ArcMap
 
 config.xml          : The AddIn configuration file
